@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 //static char *font = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";
-static char *font = "Source Code Pro:pixelsize=16:antialias=true:autohint=true";
+static char *font = "Source Code Pro:pixelsize=16:antialias=true:autohint=true, LXGW WenKai GB Screen:pixelsize=16:lang=zh-cn";
 static int borderpx = 0;
 
 /*

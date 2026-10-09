@@ -8,8 +8,9 @@ static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { 
     "SourceCodePro:medium:size=12",
     "SymbolsNerdFont:normal:size=12"
+    "LXGW WenKaiGBScreen:size=12"
 };
-static const char dmenufont[]       = "monospace:size=10";
+static const char dmenufont[]       = "SourceCodePro:medium:size=12";
 static const char col_gray1[]       = "#000000";
 static const char col_gray2[]       = "#000000";
 static const char col_gray3[]       = "#bbbbbb";
